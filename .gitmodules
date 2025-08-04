@@ -1,0 +1,6 @@
+[submodule "ATLUS-backend"]
+	path = ATLUS-backend
+	url = https://github.com/AbdelrahmanSuliman/ATLUS-backend.git
+[submodule "ATLUS-frontend"]
+	path = ATLUS-frontend
+	url = https://github.com/AbdelrahmanSuliman/ATLUS-frontend.git
