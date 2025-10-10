@@ -15,6 +15,12 @@
 
 A modern, full-stack ecommerce platform built with Next.js, Node.js, and TypeScript. ATLUS features a beautiful UI, secure authentication, real-time cart management, and seamless payment processing with Stripe.
 
+## 🎬 Demo Video
+
+[🎥 Watch a Demo](https://www.linkedin.com/posts/abdelrahman-ahmed-5724aa293_proud-to-announce-the-completion-of-my-end-to-end-activity-7358868813217415169-r-ss?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcWEKYBe2CCS-eU6CQ336nzKzVGONEwjy8)
+
+
+
 ## ✨ Features
 
 ### 🛍️ **Ecommerce Functionality**
